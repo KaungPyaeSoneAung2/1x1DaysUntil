@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f0eb1960-67ef-4419-9aef-02c8d72db647" alt="sample app image" width="600">
+<img src="https://github.com/user-attachments/assets/f0eb1960-67ef-4419-9aef-02c8d72db647" alt="sample app image" height="600">
 
 # Simple 1x1 Widget that Counts Remaining Days
 
